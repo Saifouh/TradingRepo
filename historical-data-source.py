@@ -1,14 +1,4 @@
-'''
-2024 Update - you can now get data from directly in discord
-the below file is no longer needed
-as a member of algo trade camp you should already have your role assigned
-that will allow you to access the data channel called: #crypto_data_unlimited
 
-Discord invite - https://discord.gg/8UPuVZ53bh 
-
-if you haven't been assigned your discord role, please email moondevonyt@gmail.com
-from the email you signed up with and we will get your role assigned asap
-'''
 
 
 
